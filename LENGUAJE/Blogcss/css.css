@@ -1,0 +1,19 @@
+header{text-align: center;
+        font-weight: bold;
+}
+    
+main{
+ background-color: grey;
+}
+
+.titulopost{
+        text-align: right;
+}
+
+.seguidos{
+        text-align: left;
+}
+
+div{
+        background-color: red;
+}
